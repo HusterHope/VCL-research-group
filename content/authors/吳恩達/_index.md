@@ -2,6 +2,8 @@
 # Display name
 title: 吳恩達
 
+draft: true
+
 # Username (this should match the folder name)
 authors:
 - 吳恩達

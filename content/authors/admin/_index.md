@@ -2,6 +2,8 @@
 # Display name
 title: Nelson Bighetti
 
+draft: false
+
 # Is this the primary user of the site?
 superuser: true
 

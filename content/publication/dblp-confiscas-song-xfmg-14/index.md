@@ -1,0 +1,44 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Transform domain energy modeling of natural images for wireless SoftCast optimization
+subtitle: ''
+summary: ''
+authors:
+- Zhihai Song
+- Ruiqin Xiong
+- Xiaopeng Fan
+- Siwei Ma
+- Wen Gao
+tags: []
+categories: []
+date: '2014-01-01'
+lastmod: 2021-12-15T17:15:25+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-12-15T09:15:24.209684Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*IEEE International Symposium on Circuits and Systemss, ISCAS 2014,
+  Melbourne, Victoria, Australia, June 1-5, 2014*'
+doi: 10.1109/ISCAS.2014.6865335
+links:
+- name: URL
+  url: https://doi.org/10.1109/ISCAS.2014.6865335
+---
