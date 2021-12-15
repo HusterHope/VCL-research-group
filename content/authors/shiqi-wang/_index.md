@@ -1,8 +1,15 @@
 ---
 title: Shiqi Wang
+
 authors:
 - shiqi-wang
-role: Collaboration
+
+role: Assistant Professor
+
+organizations:
+- name: City University of Hong Kong
+  url: ""
+
 user_groups:
 - Collaboration
 ---
