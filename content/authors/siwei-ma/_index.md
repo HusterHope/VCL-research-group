@@ -31,12 +31,12 @@ experience:
   - course: Lecturer
     institution: School of EECS, Peking University, Beijing, China
     year: 2007 - 2009
-  - course: Postdoc researcher
-    institution: University of Southern California, Los Angeles, U.S.
-    year: 2005 - 2007
 
 education:
   courses:
+  - course: Postdoc researcher
+    institution: University of Southern California, Los Angeles, U.S.
+    year: 2005 - 2007
   - course: Ph.D in Computer Science
     institution: Chinese Academy of Science (CAS), Beijing, China
     year: 2005
@@ -68,7 +68,13 @@ contributions:
 - Perceptual coding is very promising for future video applications. But the quality metric is an important issue in perceptual coding, and it would affect the design of perceptual coding methods significantly. He has proposed a spatial-temporal structural information based video quality metric, which has lower computational complexity while approximating the human visual testing results accurately. Moreover, based on the proposed perceptual quality metrics, optimized perceptual coding was researched and the proposed perceptual coding method can achieve more 20% bits saving compared with the traditional coding methods.
 - 3D video and VR applications becomes more and popular. His research interests focus on high efficiency 3D video coding and processing, including multi-view prediction coding, texture plus depth joint optimization coding, and panorama video stitching and coding. He proposed a low complexity synthesis view distortion estimation model, which has been adopted by MPEG 3DV video coding standards. His team has developed an AVS2 based multiview broadcasting system, which can support 8 HD video streams coding simultaneously, and a 4K VR system with real time panorama video stitching and streaming.
 
-social: []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:swma@pku.edu.cn'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=y3YqlaUAAAAJ
 
 highlight_name: true
 
