@@ -274,4 +274,4 @@
 # Published with
 
 - id: published_with
-  translation: Copyrights all reserved @PKU-VCL
+  translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
