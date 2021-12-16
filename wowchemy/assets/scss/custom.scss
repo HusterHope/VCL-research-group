@@ -1,0 +1,14 @@
+// Override this file to add your own SCSS styling.
+.article-container {
+  max-width: 960px;
+}
+
+.article-style > p {
+  text-align: justify;
+}
+
+.hero-lead > p {
+  text-align: justify;
+  font-size: 22px;
+  margin-right: 5%;
+}
