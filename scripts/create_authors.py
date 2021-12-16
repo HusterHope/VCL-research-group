@@ -26,7 +26,7 @@ def create_all_authors():
             'jiguo-li',
             # 17
             'suhong-wang', 'jiaqi-zhang', 'tianliang-fu', 'xuewei-meng', 'yuhuai-zhang',
-            'yuqing-zhang', 'xu-han', 'junlong-gao', 'yang-li',
+            'yuqing-liu', 'xu-han', 'junlong-gao', 'yang-li',
             # 18
             'meng-lei', 'kai-lin', 'zheng-chang', 'haopeng-lu',
             # 19

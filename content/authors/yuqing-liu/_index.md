@@ -1,7 +1,7 @@
 ---
-title: Wenhong Duna
+title: Yuqing Liu
 authors:
-- wenhong-duna
+- yuqing-liu
 role: Ph.D Students
 user_groups:
 - Ph.D Students
