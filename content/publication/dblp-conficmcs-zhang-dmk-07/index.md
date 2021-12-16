@@ -6,7 +6,7 @@ title: Rate-Distortion (RD) Analysis of Subpel Motion Vector Resolution Selectio
 subtitle: ''
 summary: ''
 authors:
-- Qi Zhang
+- Qi Zhang old
 - Yunyang Dai
 - Siwei Ma
 - C. -C. Jay Kuo

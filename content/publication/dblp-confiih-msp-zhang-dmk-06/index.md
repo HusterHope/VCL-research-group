@@ -5,7 +5,7 @@ title: Decoder-Friendly Subpel MV Selection for H.264/AVC Video Encoding
 subtitle: ''
 summary: ''
 authors:
-- Qi Zhang
+- Qi Zhang old
 - Yunyang Dai
 - Siwei Ma
 - C. -C. Jay Kuo
