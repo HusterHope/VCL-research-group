@@ -20,7 +20,7 @@ design:
 <br>
 
 <p>
-The Video Coding Lab (VCL) is led by Prof. Siwei Ma and consisits of 5 research faculties and over 20 Ph.D / Master students. Our research activities encompass many areas related to intelligent multimedia computing, including video coding, communication, neuralmorphic computing, mixed-reality and multi-dimensional signal processing and analysis.
+The Video Coding Lab (VCL) is led by Prof. Siwei Ma and consists of 5 research faculties and over 20 Ph.D. / Master students. Our research activities encompass many areas related to intelligent multimedia computing, including video coding, communication, neuromorphic computing, mixed-reality, and multi-dimensional signal processing and analysis.
 </p>
 
 <!-- <br>
