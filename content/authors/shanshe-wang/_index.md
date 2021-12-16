@@ -11,6 +11,6 @@ organizations:
   url: ""
 
 user_groups:
-- Researchers
+- Faculty
 
 ---

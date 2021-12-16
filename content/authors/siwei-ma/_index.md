@@ -61,7 +61,7 @@ services:
 - Video group leader of Audio and Video Coding Standard (AVS) Workgroup
 - Associate editor of Journal of Visual Communication and Representation (JVCIR)
 - Associate editor of IEEE Transactions on Circuits and System for Video Technology (TCSVT)
-- Deputy director of multimedia committee of the China Society of Image and Graph (CSIG).
+- Deputy director of the Technical Committee on Multimedia of the China Society of Image and Graph (CSIG).
 
 contributions:
 - He proposed series of high efficiency video coding tools, including rate-distortion optimization transform, adaptive motion vector resolution, rate distortion optimization mode decision, and non-local structure based loop filtering etc. Many of these works have been published on top journals, e.g. IEEE TCSVT and IEEE TIP, and serval techniques have been accepted by HEVC/H.265 and AVS video coding standards.
@@ -79,7 +79,7 @@ social:
 highlight_name: true
 
 user_groups:
-  - Researchers
+  - Principle Investigators
 ---
 
-Dr. Siwei Ma is a professor in the Department of Computer Science and technology, School of EECS, Peking University. His interest contains video coding and video processing. He has already published over 300 papers in journals and conferences, with over 9000 citations. He has also been authorized for over 40 patents. He led many research projects funded by Natural Science Foundation, 863 Hi-Tech Program, Science and Technology Support Program, etc.
+Dr. Siwei Ma is a professor in the School of Computer Science, Peking University and  deputy director of national engineering lab for video technology (NELVT). His interest contains video coding and video processing. He has already published over 300 papers in journals and conferences, with over 9000 citations. He has also been authorized for over 40 patents. He led many research projects funded by Natural Science Foundation, 863 Hi-Tech Program, Science and Technology Support Program, etc.
