@@ -1,13 +1,13 @@
 ---
 title: Qi Zhang
 authors:
-- qi-zhang
-role: Ph.D Students
+- qi-zhang-old
+role: Past Members
 user_groups:
-- Ph.D Students
+- Past Members
 
-# _build:
-#   render: never
+_build:
+  render: never
 # cascade:
 #   _build:
 #     render: never
