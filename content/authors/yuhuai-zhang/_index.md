@@ -2,7 +2,7 @@
 title: Yuhuai Zhang
 authors:
 - yuhuai-zhang
-role: Ph.D Students
+role: Postdoc
 user_groups:
-- Ph.D Students
+- Postdoc
 ---
