@@ -106,4 +106,4 @@ user_groups:
   - Principle Investigators
 ---
 
-Dr. Siwei Ma is a professor in the School of Computer Science, Peking University and  deputy director of national engineering lab for video technology (NELVT). His interest contains video coding and video processing. He has already published over 300 papers in journals and conferences, with over 11000 citations. He has also been authorized for over 40 patents. He led many research projects funded by Natural Science Foundation, 863 Hi-Tech Program, Science and Technology Support Program, etc.
+Dr. Siwei Ma is a professor in the School of Computer Science, Peking University and deputy director of national engineering research center of visual technology (NERCVT). His interest contains video coding and video processing. He has already published over 300 papers in journals and conferences, with over 11000 citations. He has also been authorized for over 40 patents. He led many research projects funded by National Natural Science Foundation of China, Ministry of Science and Technology of China, 863 Hi-Tech Program, 973 Program, etc.
