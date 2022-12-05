@@ -57,7 +57,6 @@ awards:
 - NSFC Excellent Young Scientists Fund, 5 awardees in the area of intelligent media computing in China, 2013
 - Second Prize of China‘s State Science and Technology Progress, 2012
 - Second Prize of China‘s State Technological Invention, 2006
-
 - IEEE PCS Top 10 Paper, 2021
 - IEEE MIPR Best Student Paper, 2019
 - IEEE Multimedia Best Paper Award, 2018
@@ -107,4 +106,4 @@ user_groups:
   - Principle Investigators
 ---
 
-Dr. Siwei Ma is a professor in the School of Computer Science, Peking University and  deputy director of national engineering lab for video technology (NELVT). His interest contains video coding and video processing. He has already published over 300 papers in journals and conferences, with over 9000 citations. He has also been authorized for over 40 patents. He led many research projects funded by Natural Science Foundation, 863 Hi-Tech Program, Science and Technology Support Program, etc.
+Dr. Siwei Ma is a professor in the School of Computer Science, Peking University and  deputy director of national engineering lab for video technology (NELVT). His interest contains video coding and video processing. He has already published over 300 papers in journals and conferences, with over 11000 citations. He has also been authorized for over 40 patents. He led many research projects funded by Natural Science Foundation, 863 Hi-Tech Program, Science and Technology Support Program, etc.
