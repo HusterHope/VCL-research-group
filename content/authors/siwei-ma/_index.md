@@ -45,23 +45,48 @@ education:
     year: 1999
 
 awards:
-- State Technological Invention Award (First Level and Second Level for once respectively)
 - State Scientific and Technological Progress Award (Second Level)
 - China Standard Innovation Contribution Award (First Level)
 - IEEE 1857 International Standard Contribution Award
 - AVS Technology Award and the National Excellent Doctoral Thesis Award
-- National Science Foundation of China (NSFC) for Excellent Young Scholars, 2013
-- NSFC Distinguished Young Scholars, 2020
-- Young Talents Program, 2015.
+- Tencent Xplorer prize, 5 awardees in information technology in China, 2022
+- World Leading Internet Scientific and Technological Achievement, World Internet Conference Wuzhen Summit, 2021
+- NSFC Distinguished Young Scholars, 6 awardees in the area of intelligent media computing in China, 2020
+- First Prize of China’s State Technological Invention, 2020
+- Grand Prize for Invention of the Institute of Electronics in China, 2019
+- NSFC Excellent Young Scientists Fund, 5 awardees in the area of intelligent media computing in China, 2013
+- Second Prize of China‘s State Science and Technology Progress, 2012
+- Second Prize of China‘s State Technological Invention, 2006
+
+- IEEE PCS Top 10 Paper, 2021
+- IEEE MIPR Best Student Paper, 2019
+- IEEE Multimedia Best Paper Award, 2018
+- IEEE ICIP Best Student Paper, 2018
+- VCIP top 10% best paper award, 2016
+- IEEE-SA Standard Acknowledgement (for contribution to the development of the IEEE 1857 standard), 2013
+- PCM Best Paper Award, 2017
 
 services:
 - Boya distinguished professor in the School of Computer Science at Peking University
 - Dean Assistant to the School of Computer Science at Peking University
 - Vice director of the National Engineering Lab on Video Technology at Peking University
 - Video group leader of Audio and Video Coding Standard (AVS) Workgroup
-- Associate editor of Journal of Visual Communication and Representation (JVCIR)
+- Associate editor of IEEE Transactions on Image Processing (TIP)
 - Associate editor of IEEE Transactions on Circuits and System for Video Technology (TCSVT)
+- Member of Visual Signal Processing and Communications (VSPC), IEEE Circuits and Systems Society
+- Member of Multimedia Communications Technical Committee (MMTC) in IEEE Communications Society
+- Vice Chair of IEEE Computer Society Data Compression Standards Committee
+- Chief editor of IEEE 1857.10 standard
+- Technical Program Committee member of VCIP 2017
+- Publication chair of ICIP 2017
+- Program chair of IEEE VCIP 2017
+- Area Chair of ISM 2015
+- Associate editor of Journal of Visual Communication and Representation (JVCIR)
+- Sponsorship chair of China Multimedia Conference 2022 and 2023
 - Deputy director of the Technical Committee on Multimedia of the China Society of Image and Graph (CSIG).
+- Council member of CSIG
+- Deputy director of Image, Video and Security Technical Committee of CSIG
+- Executive committee member of Multimedia Technology Technical Committee of China Computer Federation
 
 contributions:
 - He proposed series of high efficiency video coding tools, including rate-distortion optimization transform, adaptive motion vector resolution, rate distortion optimization mode decision, and non-local structure based loop filtering etc. Many of these works have been published on top journals, e.g. IEEE TCSVT and IEEE TIP, and serval techniques have been accepted by HEVC/H.265 and AVS video coding standards.
