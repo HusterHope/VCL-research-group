@@ -5,14 +5,14 @@ title: Decoder-Friendly Subpel MV Selection for H.264/AVC Video Encoding
 subtitle: ''
 summary: ''
 authors:
-- Qi Zhang old
+- Qi Zhang
 - Yunyang Dai
 - Siwei Ma
 - C. -C. Jay Kuo
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-12-15T17:17:52+08:00
+lastmod: 2022-12-05T16:14:00+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T09:17:52.009743Z'
+publishDate: '2022-12-05T08:14:00.123640Z'
 publication_types:
 - '1'
 abstract: ''

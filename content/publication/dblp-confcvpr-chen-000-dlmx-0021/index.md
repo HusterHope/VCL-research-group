@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-12-15T17:11:39+08:00
+lastmod: 2022-12-05T16:13:19+08:00
 featured: false
 draft: false
 
@@ -36,12 +36,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T09:11:38.753882Z'
+publishDate: '2022-12-05T08:13:19.117098Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2021,
   virtual, June 19-25, 2021*'
+doi: 10.1109/CVPR46437.2021.01212
 links:
 - name: URL
   url: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.html

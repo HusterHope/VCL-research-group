@@ -1,21 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution
+title: 'Evolution of AVS video coding standards: twenty years of innovation and development'
 subtitle: ''
 summary: ''
 authors:
-- Yuqing Liu
-- Qi Jia
-- Jian Zhang
-- Xin Fan
-- Shanshe Wang
 - Siwei Ma
+- Li Zhang
+- Shiqi Wang
+- Chuanmin Jia
+- Shanshe Wang
+- Tiejun Huang
+- Feng Wu
 - Wen Gao
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-12-05T11:33:57+08:00
+lastmod: 2022-12-05T16:14:41+08:00
 featured: false
 draft: false
 
@@ -33,13 +34,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-05T03:33:56.723422Z'
+publishDate: '2022-12-05T08:14:41.613276Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*CoRR*'
-doi: 10.48550/arXiv.2206.03361
+publication: '*Sci. China Inf. Sci.*'
+doi: 10.1007/s11432-021-3461-9
 links:
 - name: URL
-  url: https://doi.org/10.48550/arXiv.2206.03361
+  url: https://doi.org/10.1007/s11432-021-3461-9
 ---
