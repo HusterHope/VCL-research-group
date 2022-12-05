@@ -11,5 +11,5 @@ organizations:
   url: ""
 
 user_groups:
-- Postdoc
+- Collaboration
 ---
