@@ -4,7 +4,7 @@ title: Wei Gao
 authors:
 - wei-gao
 
-role: Associate Professor
+role: Assistant Professor
 
 organizations:
 - name: Peking University

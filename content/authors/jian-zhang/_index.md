@@ -4,7 +4,7 @@ title: Jian Zhang
 authors:
 - jian-zhang
 
-role: Associate Professor
+role: Assistant Professor
 
 organizations:
 - name: Peking University
